@@ -2,3 +2,5 @@ aqui aprendiendo
 git para 
 hacer la 
 tarea chica 1
+
+version 2 probando
